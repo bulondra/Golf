@@ -1,0 +1,17 @@
+levels:
+  0:
+    hole:
+      x: 10
+      y: 10
+      radius: 7
+    tiles:
+      - 10;10
+      - 10;10
+  1:
+    hole:
+      x: 10
+      y: 10
+      radius: 7
+    tiles:
+      - 10;10
+      - 10;10
